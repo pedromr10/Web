@@ -12,6 +12,7 @@
 ###
 
 <p align="left">Aplicação desenvolvida para uma loja de games, utilizando responsividade entre diferentes aparelhos eletrônicos.<br></p>
+<p>Telas para demonstração:</p>
 
 ###
 
