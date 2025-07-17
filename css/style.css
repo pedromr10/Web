@@ -10,8 +10,8 @@
     width: 100%;
     height: 80px;
     display: flex;
-    justify-content: space-between;  /* Alinha horizontalmente à direita */
-    align-items: center;        /* Centraliza verticalmente */
+    justify-content: space-between;
+    align-items: center;
 }
 
 .botaoLogin, .botaoCarrinho{
