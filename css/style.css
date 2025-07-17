@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.upperNav{
+    background: linear-gradient(to right, #ff8989, #f91515);
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;  /* Alinha horizontalmente à direita */
+    align-items: center;        /* Centraliza verticalmente */
+}
+
+.botaoLogin, .botaoCarrinho{
+    background-color: white;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.botaoLogin:hover{
+    background-color: rgb(245, 245, 245);
+}
