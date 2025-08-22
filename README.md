@@ -12,6 +12,7 @@ Repositório voltado ao desenvolvimento de aplicações Web.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height = "75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height = "75px"/>
 </div>
+
 * Telas da aplicação:
 
 ## 1. Blog Codar:
@@ -24,4 +25,5 @@ Repositório voltado ao desenvolvimento de aplicações Web.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height = "75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height = "75px"/>
 </div>
+
 * Telas da aplicação:
