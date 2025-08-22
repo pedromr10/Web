@@ -1,0 +1,5 @@
+Projeto feito a partir do curso Aprenda tudo sobre SQL e MySQL de forma prática e objetiva, e ainda crie projetos com PHP e MySQL! da Udemy.
+
+* Descricao: O proj
+* Data de realização do projeto: 2025
+* 
