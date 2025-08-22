@@ -1,5 +1,6 @@
-# Projetos Web
-Repositório voltado ao desenvolvimento de aplicações Web.
+<h1 align = "center">Web</h1>
+
+<p align = "center">Repositório voltado ao desenvolvimento de aplicações Web.</p>
 
 ## 1. Projeto Pizzaria do João:
 
