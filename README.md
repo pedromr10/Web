@@ -1,5 +1,4 @@
-# Web
-Projetos para aplicações Web;
+# Projetos Web
 
 1. Projeto Pizzaria do João:
 
