@@ -36,6 +36,7 @@ Projeto realizado a partir do curso Aprenda tudo sobre SQL e MySQL de forma prá
 
 ### Tela principal:
 <img width="825" height="676" alt="image" src="https://github.com/user-attachments/assets/1aa9b27b-47b9-4c5f-8a6f-035cafb302e0" />
+
 ### Tela após adicionar os números:
 <img width="676" height="810" alt="image" src="https://github.com/user-attachments/assets/6c47ff8f-7601-4d65-a4b9-4fbf271b9881" />
 
