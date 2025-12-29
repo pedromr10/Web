@@ -25,7 +25,7 @@ Projeto realizado a partir do curso Aprenda tudo sobre SQL e MySQL de forma prá
 
 ## 2. Tabuada:
 
-Projeto realizado a partir do curso Aprenda tudo sobre SQL e MySQL de forma prática e objetiva, e ainda crie projetos com PHP e MySQL! (Udemy);
+Projeto realizado a partir do curso Formação Front-end - HTML, CSS, JavaScript, React e + (Udemy);
 * Apresentação do projeto: O projeto possui uma interface web desenvolvida em HTML5 e estilizada com CSS e funcionalidades em JavaScript. O objetivo do projeto é a visualização da tabuada a partir de dois números selecionados.
 * Linguagens utilizadas:
 <div align = "center">
@@ -39,4 +39,21 @@ Projeto realizado a partir do curso Aprenda tudo sobre SQL e MySQL de forma prá
 
 ### Tela após adicionar os números:
 <img width="676" height="810" alt="image" src="https://github.com/user-attachments/assets/6c47ff8f-7601-4d65-a4b9-4fbf271b9881" />
+
+## 3. Gerador de QR Code:
+
+Projeto realizado a partir do curso Formação Front-end - HTML, CSS, JavaScript, React e + (Udemy);
+* Apresentação do projeto: O projeto possui uma interface web desenvolvida em HTML5 e estilizada com CSS e funcionalidades em JavaScript. O objetivo do projeto é a geração de QR Code (gerado por https://goqr.me/api/) a partir de um input do usuário.
+* Linguagens utilizadas:
+<div align = "center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height = "75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height = "75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "75px"/>
+</div>
+
+### Tela principal:
+<img width="918" height="614" alt="image" src="https://github.com/user-attachments/assets/a29923ce-35c3-4501-9454-7f3e2dee6b1a" />
+
+### QR Code gerado:
+<img width="652" height="715" alt="image" src="https://github.com/user-attachments/assets/c01921a4-521b-4c3d-a8b4-95f20cc5c53b" />
 
