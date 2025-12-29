@@ -4,7 +4,7 @@
 
 ## 1. Projeto Pizzaria do João:
 
-* Título do curso: Projeto realizado a partir do curso Aprenda tudo sobre SQL e MySQL de forma prática e objetiva, e ainda crie projetos com PHP e MySQL! (Udemy);
+Projeto realizado a partir do curso Aprenda tudo sobre SQL e MySQL de forma prática e objetiva, e ainda crie projetos com PHP e MySQL! (Udemy);
 * Apresentação do projeto: O projeto possui uma interface web desenvolvida em HTML5 e estilizada com CSS, com código otimizado em PHP para permitir a reutilização de blocos e facilitar a manutenção. A aplicação possibilita ao usuário realizar pedidos de pizzas com diferentes sabores, tipos de massa e bordas. Além disso, é possível visualizar os pedidos, alterar seu status e cancelar solicitações diretamente na tela de dashboard. O sistema é responsivo, garantindo bom funcionamento também em dispositivos móveis.
 * Linguagens utilizadas:
 <div align = "center">
@@ -22,3 +22,21 @@
 
 ### Tela de verificação de pedidos - dashboard - cencelamento de pedido e status de preparo:
 <img width="1916" height="600" alt="image" src="https://github.com/user-attachments/assets/b21e245d-3677-4a05-93bf-db8b81264ff3" />
+
+## 2. Tabuada:
+
+Projeto realizado a partir do curso Aprenda tudo sobre SQL e MySQL de forma prática e objetiva, e ainda crie projetos com PHP e MySQL! (Udemy);
+* Apresentação do projeto: O projeto possui uma interface web desenvolvida em HTML5 e estilizada com CSS e funcionalidades em JavaScript. O objetivo do projeto é a visualização da tabuada a partir de dois números selecionados.
+* Linguagens utilizadas:
+<div align = "center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height = "75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height = "75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "75px"/>
+</div>
+
+### Tela principal:
+<img width="825" height="676" alt="image" src="https://github.com/user-attachments/assets/1aa9b27b-47b9-4c5f-8a6f-035cafb302e0" />
+
+### Tela após adicionar os números:
+<img width="676" height="810" alt="image" src="https://github.com/user-attachments/assets/6c47ff8f-7601-4d65-a4b9-4fbf271b9881" />
+
