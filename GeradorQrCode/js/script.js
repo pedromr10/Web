@@ -25,6 +25,8 @@ submitButton.addEventListener("click", function(){
     img.id = "qr-code-img";
     img.alt = "Qr code";
     submitsDiv.appendChild(img);
-    //volta o value padrao do botao:
-    submitButton.value = "Gerar QR Code";
+    //volta o value padrao do botao, mas so depois do qr code ser mostrado:
+    img.onload = () => {
+        submitButton.value = "Gerar QR Code";
+    };
 })
