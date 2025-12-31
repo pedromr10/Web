@@ -57,3 +57,27 @@ Projeto realizado a partir do curso Formação Front-end - HTML, CSS, JavaScript
 ### QR Code gerado:
 <img width="652" height="715" alt="image" src="https://github.com/user-attachments/assets/c01921a4-521b-4c3d-a8b4-95f20cc5c53b" />
 
+## 4. Clone site da Apple:
+
+Projeto realizado a partir do curso Formação Front-end - HTML, CSS, JavaScript, React e + (Udemy);
+* Apresentação do projeto: O projeto possui uma interface web desenvolvida em HTML5 e estilizada com CSS e funcionalidades em JavaScript. O objetivo do projeto é a clonagem do site de vendas do iPhone. Contém funcionalidade de escolha de cor do celular.
+* Linguagens utilizadas:
+<div align = "center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height = "75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height = "75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "75px"/>
+</div>
+
+### Tela principal:
+<img width="1905" height="936" alt="image" src="https://github.com/user-attachments/assets/f7a75bd4-04f6-4b60-9756-38ef7c00befa" />
+
+
+### Cor 1 - Silver:
+<img width="1913" height="923" alt="image" src="https://github.com/user-attachments/assets/6b7d62db-e70a-415e-82a8-37b44e4273a3" />
+
+### Cor 2 - Orange:
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/05e996a1-0330-482b-b3b8-0060d3a42767" />
+
+### Cor 3 - Blue:
+<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/942d7db0-bb7c-484b-8afe-1cd3cd28c8bd" />
+
