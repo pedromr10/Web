@@ -81,3 +81,25 @@ Projeto realizado a partir do curso Formação Front-end - HTML, CSS, JavaScript
 ### Cor 3 - Blue:
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/942d7db0-bb7c-484b-8afe-1cd3cd28c8bd" />
 
+## 5. Calculadora de IMC:
+
+Projeto realizado a partir do curso Formação Front-end - HTML, CSS, JavaScript, React e + (Udemy);
+* Apresentação do projeto: O projeto possui uma interface web desenvolvida em HTML5 e estilizada com CSS e funcionalidades em JavaScript a partir de React. O objetivo do projeto é realizar o cálculo de IMC dinamicamente a partir do React.
+* Linguagens utilizadas:
+<div align = "center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height = "75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height = "75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height = "75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height = "75px"/>
+          
+</div>
+
+### Tela principal:
+<img width="797" height="690" alt="image" src="https://github.com/user-attachments/assets/92a0e024-526e-4eeb-af09-1d88ab35df0b" />
+
+### Tela de resultado:
+<img width="504" height="575" alt="image" src="https://github.com/user-attachments/assets/31534802-c107-47ad-ac32-6616bfdbb42c" />
+
+
+
+
